@@ -684,7 +684,7 @@ header {
   }
 
 }
-@media (min-width: 390px){
+@media (min-width: 300px) and (max-width: 576px) {
   .home {
     min-width: unset;
     padding: 4rem 1rem 2rem;
