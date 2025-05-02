@@ -686,8 +686,9 @@ header {
 }
 @media (max-width: 390px){
   .home{
-    width: 100%;
+    width: 50%;
   }
+
   .navbar{
     width: 100%;
   }
